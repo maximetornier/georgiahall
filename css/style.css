@@ -543,7 +543,7 @@ header {
   .about-flex .about-desc {
     padding: 7em;
     z-index: 1; 
-    background-color: #fff;
+    background-color: #F2F2F2;
   position: relative;
     height: 100%;
     overflow: scroll;}
