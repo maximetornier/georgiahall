@@ -724,7 +724,8 @@ display:block }
   .work-entry-flex1 .text-inner-right {
     text-align: left;
     margin-right: 0;
-    padding-left: 0; }
+    padding-left: 0;
+  height: 100%;}
    
   .work-entry-flex1 .text-inner-left {
     text-align: left;
